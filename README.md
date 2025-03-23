@@ -14,4 +14,7 @@ Bài tập 02 của sv: K225480106100 - Lý Văn Cường - Môn Hệ Quản Tr�
 ![image](https://github.com/user-attachments/assets/e3195ea2-79d6-4f43-8ae1-81b72cabfafb)
 ![image](https://github.com/user-attachments/assets/42b954b1-c15c-4705-9557-79c0a1fe422e)
 ![image](https://github.com/user-attachments/assets/0261ff1a-fb43-4807-86d9-331750a484b3)
+![image](https://github.com/user-attachments/assets/32f7e330-5630-41f7-9996-5529dd9c217f)
+![image](https://github.com/user-attachments/assets/8e7ed316-db2a-4ed0-a8a2-0c2e378fd089)
+![Uploading image.png…]()
 
