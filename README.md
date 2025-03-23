@@ -19,4 +19,13 @@ Bài tập 02 của sv: K225480106100 - Lý Văn Cường - Môn Hệ Quản Tr�
 ![image](https://github.com/user-attachments/assets/992c1036-2371-42eb-9b5c-fad4e1e84714)
 ![image](https://github.com/user-attachments/assets/a6e6a3f8-f742-4fe1-b85c-5a449904053b)
 ![image](https://github.com/user-attachments/assets/3d9b951d-fb3b-483c-aec0-89b8160e47a9)
+![image](https://github.com/user-attachments/assets/e7280c92-5f68-4a37-94b9-48c49287b0b2)
+![image](https://github.com/user-attachments/assets/0dce57ac-4907-4134-bbeb-4ef5b3f4cf13)
+![image](https://github.com/user-attachments/assets/86c5b27b-ddab-430b-bf76-f891fb1d406f)
+![image](https://github.com/user-attachments/assets/04a37791-7627-4785-b13a-f9daf3874e25)
+![image](https://github.com/user-attachments/assets/748cac63-6072-4a30-81c7-079e56d05dda)
+![image](https://github.com/user-attachments/assets/53d821f1-c36f-4ad0-b06e-3ee1cdbe25a3)
+![image](https://github.com/user-attachments/assets/f3d35b7e-5e74-4fa1-910a-96ff3f11d711)
+![image](https://github.com/user-attachments/assets/adb80dcf-df37-4331-af8c-f198b6039d6e)
+
 
