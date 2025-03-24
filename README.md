@@ -30,6 +30,10 @@ Mô tả chi tiết bài tập:
  + Nhấp chuột phải vào 'Tables' --> New ---> Table...
 
 ![image](https://github.com/user-attachments/assets/ba5522ce-64e4-4c00-a8dd-daea7e9b1863)
+
+ + Thực hiện thêm các thuộc tính theo yêu cầu vào mỗi bảng với kiểu dữ liệu phù hợp với thuộc
+   tính đó ---> Ctrl S để lưu bảng và đặt tên bảng
+
 ![image](https://github.com/user-attachments/assets/12822d8b-8cd1-4d91-813c-50e5016a2674)
 ![image](https://github.com/user-attachments/assets/6b0a454c-7cdd-4857-8705-3c5ae18df802)
 ![image](https://github.com/user-attachments/assets/37907bca-cc6b-4c52-8e54-92738b07e751)
