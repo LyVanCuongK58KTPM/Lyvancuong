@@ -79,6 +79,8 @@ Mô tả chi tiết bài tập:
 
 - Add(thêm khóa ngoại) ----> Nhấp vào '...' tại Tables And Columns Specification ( liên kết khóa chính của bảng này với khóa ngoại của bảng kia)
 
+- Tại Insert And Update Specification ----> chọn Update Rule : CASCADE
+  ( CASCADE để bảo bảo tính nhất quán dữ liệu, nếu dữ liệu của thuộc tính khóa chính bị thay đổi thì dữ liệu của khóa ngoại tại bảng liên kết cũng sẽ thay đổi theo)
 ![image](https://github.com/user-attachments/assets/f3d35b7e-5e74-4fa1-910a-96ff3f11d711)
 ![image](https://github.com/user-attachments/assets/adb80dcf-df37-4331-af8c-f198b6039d6e)
 ![image](https://github.com/user-attachments/assets/240892ea-196b-410c-bbcf-4d400749a757)
