@@ -1,11 +1,16 @@
 # Lyvancuong
 Bài tập 02 của sv: K225480106100 - Lý Văn Cường - Môn Hệ Quản Trị CSDL
+
 Mô tả tóm tắt bài tập:
  - Bước 1: Mở SQL Server Management Studio và thực hiện kết nối tài khoản SQL Server
  - Bước 2: Tạo một Database mới
  - Bước 3: Tạo các bảng trong Database với các thuộc tính được yêu cầu trước và lưu tên bảng
- - Bước 4: Đặt khóa chính cho các thuộc tính của các bảng theo yêu cầu trước đó
- - Bước 5: 
+ - Bước 4: Cài đặt kiểm tra ràng buộc cho những thuộc tính cần thiết (Check constraints)
+ - Bước 5: Đặt khóa chính(PK) và khóa ngoại(FK) cho các thuộc tính của các bảng theo yêu cầu trước đó
+ - Bước 6: Chuyển thao tác đồ họa sang lệnh SQL
+
+
+Mô tả chi tiết bài tập:
 - Bước 1: Kết nối tài khoản SQL Server
 ![image](https://github.com/user-attachments/assets/2e02fbf7-f86d-4df2-8d96-8bcab6c77904)
 - Sau khi kết nối thành công, nhấp chuột phải vào Database --> New Database...
