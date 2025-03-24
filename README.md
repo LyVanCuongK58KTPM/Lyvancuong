@@ -10,12 +10,13 @@ Bài tập 02 của sv: K225480106100 - Lý Văn Cường - Môn Hệ Quản Tr�
  - Bước 6: Chuyển thao tác đồ họa sang lệnh SQL
 
 
-Mô tả chi tiết bài tập:
-- Bước 1: Kết nối tài khoản SQL Server
+**Mô tả chi tiết bài tập:**
+**- Bước 1: Kết nối tài khoản SQL Server**
   
 ![image](https://github.com/user-attachments/assets/2e02fbf7-f86d-4df2-8d96-8bcab6c77904)
 
-- Bước 2: Sau khi kết nối thành công, nhấp chuột phải vào Database --> New Database...
+**- Bước 2: Tạo Database**
+- Sau khi kết nối thành công, nhấp chuột phải vào Database --> New Database...
   
 ![image](https://github.com/user-attachments/assets/9937980c-b509-46f7-a547-56a2780cfaeb)
 
@@ -23,7 +24,8 @@ Mô tả chi tiết bài tập:
 
 ![image](https://github.com/user-attachments/assets/98439715-4958-4bcd-944a-76afdca8aa81)
 
-- Bước 3: Nhấp vào dấu '+' tại Database vừa tạo, ta sẽ thấy có tệp 'Tables'
+**- Bước 3: Tạo Bảng**
+- Nhấp vào dấu '+' tại Database vừa tạo, ta sẽ thấy có tệp 'Tables'
 
 ![image](https://github.com/user-attachments/assets/e6b880c5-02e8-4371-839d-1a448373a734)
 
@@ -46,23 +48,21 @@ Mô tả chi tiết bài tập:
 ![image](https://github.com/user-attachments/assets/992c1036-2371-42eb-9b5c-fad4e1e84714)
 
 
-- Bước 4: Thêm ràng buộc vào những bảng có thuộc tính cần thiết ràng buộc  
+**- Bước 4: Thêm ràng buộc vào những bảng có thuộc tính cần thiết ràng buộc**  
 - Nhấp chuột phải vào khoảng trống bất kì trong mục 'Design' của bảng ---> Check constraints
+- 
 ![image](https://github.com/user-attachments/assets/a6e6a3f8-f742-4fe1-b85c-5a449904053b)
 
 
- ----> Add ----> Expression (điều kiện ràng buộc)
+- Add ----> Expression (điều kiện ràng buộc)
   
 
 ![image](https://github.com/user-attachments/assets/3d9b951d-fb3b-483c-aec0-89b8160e47a9)
 ![image](https://github.com/user-attachments/assets/e7280c92-5f68-4a37-94b9-48c49287b0b2)
-
-
-
 ![image](https://github.com/user-attachments/assets/0dce57ac-4907-4134-bbeb-4ef5b3f4cf13)
 
 
-- Bước 5: Cài khóa chính cho các thuộc tính trong bảng
+**- Bước 5: Cài khóa chính cho các thuộc tính trong bảng:**
 - Có 2 cách để cài thuộc tính trở thành khóa chính:
 - Cách 1: Nhấp chuột phải vào thuộc tính ---> set primary key
 
@@ -75,7 +75,7 @@ Mô tả chi tiết bài tập:
 ![image](https://github.com/user-attachments/assets/748cac63-6072-4a30-81c7-079e56d05dda)
 
 
-- Bước 5.1: Cài đặt khóa ngoại(FK) cho các thuộc tính:
+**- Bước 5.1: Cài đặt khóa ngoại(FK) cho các thuộc tính:**
 - Chỉ có thể cài khóa ngoại khi thuộc tính đó là khóa chính tại một bảng mà chúng ta muốn liên kết tới
 - Nhấp chuột phải vào bất kì trong mục 'Design' của bảng ---> Relationship.... 
 ![image](https://github.com/user-attachments/assets/53d821f1-c36f-4ad0-b06e-3ee1cdbe25a3)
@@ -98,7 +98,7 @@ Mô tả chi tiết bài tập:
 ![image](https://github.com/user-attachments/assets/3e5e4664-624c-4429-a839-60942432c528)
 
 
-- Bước 6: Chuyển các thao tác đồ họa sang lệnh SQL:
+**- Bước 6: Chuyển các thao tác đồ họa sang lệnh SQL:**
 - Nhấp chuột phải vào tên bảng(dbo.Tên Bảng) ----> Scrip Table ----> CREATE To ----> New Query Editor WindowWindow
 
 
