@@ -71,7 +71,7 @@ Mô tả chi tiết bài tập:
 ![image](https://github.com/user-attachments/assets/748cac63-6072-4a30-81c7-079e56d05dda)
 
 
-- Bước 6: Cài đặt khóa ngoại(FK) cho các thuộc tính:
+- Bước 5.1: Cài đặt khóa ngoại(FK) cho các thuộc tính:
 - Chỉ có thể cài khóa ngoại khi thuộc tính đó là khóa chính tại một bảng mà chúng ta muốn liên kết tới
 - Nhấp chuột phải vào bất kì trong mục 'Design' của bảng ---> Relationship.... 
 ![image](https://github.com/user-attachments/assets/53d821f1-c36f-4ad0-b06e-3ee1cdbe25a3)
@@ -92,6 +92,12 @@ Mô tả chi tiết bài tập:
 ![image](https://github.com/user-attachments/assets/f98aa345-81b7-4698-9a68-cd8630d329e5)
 ![image](https://github.com/user-attachments/assets/f1332bf8-dcf3-44ae-abc3-78e0cb0c0692)
 ![image](https://github.com/user-attachments/assets/3e5e4664-624c-4429-a839-60942432c528)
+
+
+- Bước 6: Chuyển các thao tác đồ họa sang lệnh SQL:
+- Nhấp chuột phải vào tên bảng(dbo.Tên Bảng) ----> Scrip Table ----> CREATE To ----> New Query Editor WindowWindow
+
+
 ![image](https://github.com/user-attachments/assets/5023d34e-a34b-499d-b549-bb7ea8c5ff95)
 ![image](https://github.com/user-attachments/assets/38e998db-7213-4fd7-87bb-1b0700f8aa93)
 ![image](https://github.com/user-attachments/assets/e04a1801-2b49-42ce-bf78-d1cf3349502a)
