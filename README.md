@@ -75,6 +75,10 @@ Mô tả chi tiết bài tập:
 - Chỉ có thể cài khóa ngoại khi thuộc tính đó là khóa chính tại một bảng mà chúng ta muốn liên kết tới
 - Nhấp chuột phải vào bất kì trong mục 'Design' của bảng ---> Relationship.... 
 ![image](https://github.com/user-attachments/assets/53d821f1-c36f-4ad0-b06e-3ee1cdbe25a3)
+
+
+- Add(thêm khóa ngoại) ----> Nhấp vào '...' tại Tables And Columns Specification ( liên kết khóa chính của bảng này với khóa ngoại của bảng kia)
+
 ![image](https://github.com/user-attachments/assets/f3d35b7e-5e74-4fa1-910a-96ff3f11d711)
 ![image](https://github.com/user-attachments/assets/adb80dcf-df37-4331-af8c-f198b6039d6e)
 ![image](https://github.com/user-attachments/assets/240892ea-196b-410c-bbcf-4d400749a757)
