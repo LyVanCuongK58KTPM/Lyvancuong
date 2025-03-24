@@ -103,6 +103,10 @@ Mô tả chi tiết bài tập:
 
 
 ![image](https://github.com/user-attachments/assets/5023d34e-a34b-499d-b549-bb7ea8c5ff95)
+
+
+- Lệnh SQL sau khi chuyển từ thao tác đồ họa:
+
 ![image](https://github.com/user-attachments/assets/38e998db-7213-4fd7-87bb-1b0700f8aa93)
 ![image](https://github.com/user-attachments/assets/e04a1801-2b49-42ce-bf78-d1cf3349502a)
 ![image](https://github.com/user-attachments/assets/1a006aaf-c918-4354-8a84-c626aec0b5a9)
