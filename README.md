@@ -27,5 +27,18 @@ Bài tập 02 của sv: K225480106100 - Lý Văn Cường - Môn Hệ Quản Tr�
 ![image](https://github.com/user-attachments/assets/53d821f1-c36f-4ad0-b06e-3ee1cdbe25a3)
 ![image](https://github.com/user-attachments/assets/f3d35b7e-5e74-4fa1-910a-96ff3f11d711)
 ![image](https://github.com/user-attachments/assets/adb80dcf-df37-4331-af8c-f198b6039d6e)
+![image](https://github.com/user-attachments/assets/240892ea-196b-410c-bbcf-4d400749a757)
+![image](https://github.com/user-attachments/assets/785a95a4-edb9-4d55-b83e-04788dc14849)
+![image](https://github.com/user-attachments/assets/e7c73da7-30f4-463d-8ec6-1ef96fa5ecac)
+![image](https://github.com/user-attachments/assets/649b023d-4a0a-4b71-96ac-88d145d44bae)
+![image](https://github.com/user-attachments/assets/9854ef53-9629-4844-981d-ca56c1b4f8c2)
+![image](https://github.com/user-attachments/assets/fa81b6c4-e17c-4842-a428-132a5c26d135)
+![image](https://github.com/user-attachments/assets/f98aa345-81b7-4698-9a68-cd8630d329e5)
+![image](https://github.com/user-attachments/assets/f1332bf8-dcf3-44ae-abc3-78e0cb0c0692)
+![image](https://github.com/user-attachments/assets/3e5e4664-624c-4429-a839-60942432c528)
+![image](https://github.com/user-attachments/assets/5023d34e-a34b-499d-b549-bb7ea8c5ff95)
+![image](https://github.com/user-attachments/assets/38e998db-7213-4fd7-87bb-1b0700f8aa93)
+![image](https://github.com/user-attachments/assets/e04a1801-2b49-42ce-bf78-d1cf3349502a)
+![image](https://github.com/user-attachments/assets/1a006aaf-c918-4354-8a84-c626aec0b5a9)
 
 
