@@ -52,7 +52,16 @@ Mô tả chi tiết bài tập:
 ![image](https://github.com/user-attachments/assets/a6e6a3f8-f742-4fe1-b85c-5a449904053b)
 ![image](https://github.com/user-attachments/assets/3d9b951d-fb3b-483c-aec0-89b8160e47a9)
 ![image](https://github.com/user-attachments/assets/e7280c92-5f68-4a37-94b9-48c49287b0b2)
+
+
+- Bước 5: Cài khóa chính cho các thuộc tính trong bảng
+- Có 2 cách để cài thuộc tính trở thành khóa chính:
+- Cách 1: Nhấp chuột phải vào thuộc tính ---> set primary key
 ![image](https://github.com/user-attachments/assets/0dce57ac-4907-4134-bbeb-4ef5b3f4cf13)
+
+
+- Cách 2: Giữ Ctrl + nhấp chuột để chọn nhiều thuộc tính ---> biểu tượng chìa khóakhóa trên thanh công cụ
+
 ![image](https://github.com/user-attachments/assets/86c5b27b-ddab-430b-bf76-f891fb1d406f)
 ![image](https://github.com/user-attachments/assets/04a37791-7627-4785-b13a-f9daf3874e25)
 ![image](https://github.com/user-attachments/assets/748cac63-6072-4a30-81c7-079e56d05dda)
