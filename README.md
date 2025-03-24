@@ -47,7 +47,7 @@ Mô tả chi tiết bài tập:
 
 
 - Bước 4: Thêm ràng buộc vào những bảng có thuộc tính cần thiết ràng buộc  
-- Nhấp chuột phải vào khoảng trống bất kì trong bảng ---> Check constraints ----> Add ----> Expression (điều kiện ràng buộc)
+- Nhấp chuột phải vào khoảng trống bất kì trong mục 'Design' của bảng ---> Check constraints ----> Add ----> Expression (điều kiện ràng buộc)
   
 ![image](https://github.com/user-attachments/assets/a6e6a3f8-f742-4fe1-b85c-5a449904053b)
 ![image](https://github.com/user-attachments/assets/3d9b951d-fb3b-483c-aec0-89b8160e47a9)
@@ -69,6 +69,11 @@ Mô tả chi tiết bài tập:
 - Cách 2: Giữ Ctrl + nhấp chuột để chọn nhiều thuộc tính ---> biểu tượng chìa khóakhóa trên thanh công cụ
 
 ![image](https://github.com/user-attachments/assets/748cac63-6072-4a30-81c7-079e56d05dda)
+
+
+- Bước 6: Cài đặt khóa ngoại(FK) cho các thuộc tính:
+- Chỉ có thể cài khóa ngoại khi thuộc tính đó là khóa chính tại một bảng mà chúng ta muốn liên kết tới
+- Nhấp chuột phải vào bất kì trong mục 'Design' của bảng ---> Relationship.... 
 ![image](https://github.com/user-attachments/assets/53d821f1-c36f-4ad0-b06e-3ee1cdbe25a3)
 ![image](https://github.com/user-attachments/assets/f3d35b7e-5e74-4fa1-910a-96ff3f11d711)
 ![image](https://github.com/user-attachments/assets/adb80dcf-df37-4331-af8c-f198b6039d6e)
