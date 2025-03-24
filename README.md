@@ -47,9 +47,13 @@ Mô tả chi tiết bài tập:
 
 
 - Bước 4: Thêm ràng buộc vào những bảng có thuộc tính cần thiết ràng buộc  
-- Nhấp chuột phải vào khoảng trống bất kì trong mục 'Design' của bảng ---> Check constraints ----> Add ----> Expression (điều kiện ràng buộc)
-  
+- Nhấp chuột phải vào khoảng trống bất kì trong mục 'Design' của bảng ---> Check constraints
 ![image](https://github.com/user-attachments/assets/a6e6a3f8-f742-4fe1-b85c-5a449904053b)
+
+
+ ----> Add ----> Expression (điều kiện ràng buộc)
+  
+
 ![image](https://github.com/user-attachments/assets/3d9b951d-fb3b-483c-aec0-89b8160e47a9)
 ![image](https://github.com/user-attachments/assets/e7280c92-5f68-4a37-94b9-48c49287b0b2)
 
