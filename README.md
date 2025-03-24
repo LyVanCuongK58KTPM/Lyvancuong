@@ -23,11 +23,11 @@ Mô tả chi tiết bài tập:
 
 ![image](https://github.com/user-attachments/assets/98439715-4958-4bcd-944a-76afdca8aa81)
 
-- Bước 3: Nhấp vào dấu '+' tại Database vừa tạo, ta sẽ thấy có tệp 'Table'
+- Bước 3: Nhấp vào dấu '+' tại Database vừa tạo, ta sẽ thấy có tệp 'Tables'
 
 ![image](https://github.com/user-attachments/assets/e6b880c5-02e8-4371-839d-1a448373a734)
 
- + Nhấp chuột phải vào 'Table' -->
+ + Nhấp chuột phải vào 'Tables' --> New ---> Table...
 
 ![image](https://github.com/user-attachments/assets/ba5522ce-64e4-4c00-a8dd-daea7e9b1863)
 ![image](https://github.com/user-attachments/assets/12822d8b-8cd1-4d91-813c-50e5016a2674)
