@@ -1,7 +1,7 @@
 # Lyvancuong
-Bài tập 02 của sv: K225480106100 - Lý Văn Cường - Môn Hệ Quản Trị CSDL
+# Bài tập 02 của sv: K225480106100 - Lý Văn Cường - Môn Hệ Quản Trị CSDL
 
-**Mô tả tóm tắt bài tập**
+**Mô tả tóm tắt bài tập:**
  - Bước 1: Mở SQL Server Management Studio và thực hiện kết nối tài khoản SQL Server
  - Bước 2: Tạo một Database mới
  - Bước 3: Tạo các bảng trong Database với các thuộc tính được yêu cầu trước và lưu tên bảng
