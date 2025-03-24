@@ -1,7 +1,7 @@
 # Lyvancuong
 Bài tập 02 của sv: K225480106100 - Lý Văn Cường - Môn Hệ Quản Trị CSDL
 
-Mô tả tóm tắt bài tập:
+**Mô tả tóm tắt bài tập**
  - Bước 1: Mở SQL Server Management Studio và thực hiện kết nối tài khoản SQL Server
  - Bước 2: Tạo một Database mới
  - Bước 3: Tạo các bảng trong Database với các thuộc tính được yêu cầu trước và lưu tên bảng
@@ -70,7 +70,7 @@ Mô tả chi tiết bài tập:
 ![image](https://github.com/user-attachments/assets/04a37791-7627-4785-b13a-f9daf3874e25)
 
 
-- Cách 2: Giữ Ctrl + nhấp chuột để chọn nhiều thuộc tính ---> biểu tượng chìa khóakhóa trên thanh công cụ
+- Cách 2: Giữ Ctrl + nhấp chuột để chọn nhiều thuộc tính ---> biểu tượng chìa khóa trên thanh công cụ
 
 ![image](https://github.com/user-attachments/assets/748cac63-6072-4a30-81c7-079e56d05dda)
 
