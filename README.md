@@ -87,17 +87,18 @@
 
 - Tại Insert And Update Specification ----> chọn Update Rule : CASCADE
   ( CASCADE để bảo bảo tính nhất quán dữ liệu, nếu dữ liệu của thuộc tính khóa chính bị thay đổi thì dữ liệu của khóa ngoại tại bảng liên kết cũng sẽ thay đổi theo)
-![image](https://github.com/user-attachments/assets/f3d35b7e-5e74-4fa1-910a-96ff3f11d711)
-![image](https://github.com/user-attachments/assets/adb80dcf-df37-4331-af8c-f198b6039d6e)
-![image](https://github.com/user-attachments/assets/240892ea-196b-410c-bbcf-4d400749a757)
-![image](https://github.com/user-attachments/assets/785a95a4-edb9-4d55-b83e-04788dc14849)
-![image](https://github.com/user-attachments/assets/e7c73da7-30f4-463d-8ec6-1ef96fa5ecac)
-![image](https://github.com/user-attachments/assets/649b023d-4a0a-4b71-96ac-88d145d44bae)
-![image](https://github.com/user-attachments/assets/9854ef53-9629-4844-981d-ca56c1b4f8c2)
-![image](https://github.com/user-attachments/assets/fa81b6c4-e17c-4842-a428-132a5c26d135)
-![image](https://github.com/user-attachments/assets/f98aa345-81b7-4698-9a68-cd8630d329e5)
-![image](https://github.com/user-attachments/assets/f1332bf8-dcf3-44ae-abc3-78e0cb0c0692)
-![image](https://github.com/user-attachments/assets/3e5e4664-624c-4429-a839-60942432c528)
+![image](https://github.com/user-attachments/assets/6b153be5-1256-4a60-bc2f-b0bc9752c246)
+![image](https://github.com/user-attachments/assets/21824f63-3af7-4e80-b566-6699d83c7c45)
+![image](https://github.com/user-attachments/assets/43d13854-978f-4906-8cf5-35788a9dcc47)
+![image](https://github.com/user-attachments/assets/d162149b-5f84-4f37-a843-c40a3e76be0f)
+![image](https://github.com/user-attachments/assets/58761f91-4acd-4661-b0c1-690a5ed561ae)
+![image](https://github.com/user-attachments/assets/9b0bd443-1c5e-4eee-b399-c4a37de8f1ad)
+![image](https://github.com/user-attachments/assets/2be5733f-c126-4640-ac70-3ca09a8c3c4e)
+![image](https://github.com/user-attachments/assets/99e34aa9-2167-4306-9077-3e5b43c04725)
+![image](https://github.com/user-attachments/assets/4eb94028-e29c-4d4e-9af1-907442beacb5)
+![image](https://github.com/user-attachments/assets/a04b6094-9cc7-46a2-83c5-ceee98d4c0a7)
+![image](https://github.com/user-attachments/assets/aa7a5413-6426-4fdc-8cf0-e66b0e8499e2)
+![image](https://github.com/user-attachments/assets/a1b0879a-4e5c-49b5-a25e-fdc130bca6ac)
 
 
 **- Bước 6: Chuyển các thao tác đồ họa sang lệnh SQL:**
