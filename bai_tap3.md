@@ -65,6 +65,14 @@ YÊU CẦU:
     
         ![image](https://github.com/user-attachments/assets/af117d83-468e-415b-b95e-6da5e5520837)
 
+4. Tạo diagram mô tả các PK, FK của db:
+   - Trong database QLSV, nhấp chuột phải vào Database ---> New database diagram:
 
+     ![image](https://github.com/user-attachments/assets/b76adaf9-7ccf-4075-a89a-3a6eb50221a6)
 
+  - Thực hiện Add các bảng vào Diagram ta được sơ đồ quan hệ sau:
+
+    ![image](https://github.com/user-attachments/assets/2f86f844-4c39-4ca3-ab47-a27b6e779fcb)
+
+    
      
