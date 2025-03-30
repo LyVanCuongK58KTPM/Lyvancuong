@@ -56,7 +56,14 @@ YÊU CẦU:
 
    - Viết lệnh truy vấn để tính được điểm thành phần của 1 sinh viên đang học tại 1 lớp học:
   
-     ![image](https://github.com/user-attachments/assets/8b6d8d98-752b-4f2e-a9a6-495a5c0f6711)
+     + Điểm thành phần các môn học của sinh viên:
+  
+     ![image](https://github.com/user-attachments/assets/08fba806-c76e-4816-aeda-abc6851df0da)
+
+
+      + Điểm thành phần học kì của sinh viên:
+    
+        ![image](https://github.com/user-attachments/assets/af117d83-468e-415b-b95e-6da5e5520837)
 
 
 
